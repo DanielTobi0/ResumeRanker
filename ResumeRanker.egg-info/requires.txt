@@ -1,8 +1,0 @@
-openai
-python-dotenv
-sentence-transformers
-torch
-pandas
-numpy
-scikit-learn
-tqdm
