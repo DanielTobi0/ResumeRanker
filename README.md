@@ -1,4 +1,4 @@
-# Resume Ranking with Text Embedding and LLM-as-a-Judge
+# Resume Ranking with Encoder and Decoder Models
 
 This project leverages a combination of bi-encoders, cross-encoders, and LLM, to  automatically rank candidate resumes against a given job description.
 
