@@ -1,0 +1,29 @@
+Title: Senior Data Engineer
+
+Company: Innovatech Solutions
+
+Location: Remote (US)
+
+Innovatech Solutions is seeking a motivated and experienced Senior Data Engineer to join our growing data platform team. You will be responsible for designing, building, and optimizing our data pipelines, making data a core asset for our product and business teams. This role requires a strong technical background and the ability to mentor other engineers.
+
+Key Responsibilities:
+Design, build, and maintain robust and scalable data pipelines using Python and SQL.
+Develop ETL/ELT processes to ingest data from various sources into our cloud data warehouse.
+Collaborate with data scientists and analysts to understand data needs and provide reliable datasets.
+Ensure data quality, integrity, and reliability across our platform.
+Mentor and guide junior data engineers, promoting best practices in code and design.
+
+Minimum Qualifications:
+5+ years of professional experience in a data engineering role.
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Expert-level proficiency in Python and SQL.
+Hands-on experience with at least one major cloud platform (AWS, GCP, or Azure).
+Proven experience building and optimizing 'big data' data pipelines.
+
+Preferred Qualifications:
+Master's degree in a related field.
+Experience with workflow orchestration tools like Apache Airflow.
+Familiarity with streaming technologies such as Kafka or Kinesis.
+Experience with big data tools like Apache Spark.
+AWS Certified Data Analytics or similar certification is a plus.
+Experience in a fast-paced SaaS environment.
