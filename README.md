@@ -1,15 +1,15 @@
 # Resume Ranking with Encoder and Decoder Models
 
-This project uses a combination of bi-encoders, cross-encoders, and LLM, to  automatically rank candidate resumes against a given job description with strong accuracy.
+This uses a combination of bi-encoders, cross-encoders, and LLM, to rank candidate resumes against a given job description with strong accuracy.
 
 ## Features
 
 - **Ranking Architecture:** starting with a fast bi-encoder for initial filtering, followed by cross-encoder and LLM-as-a-judge for detailed re-ranking.
-- **Structured Data Extraction:** Uses LLMs to parse unstructured text from resumes and job descriptions into a structured JSON format, capturing key details like skills, experience, and qualifications.
-- **Resume Parsing:** Supports resumes in various formats, including `.pdf`, `.docx`, and `.txt`.
-- **Ensemble Scoring:** Combines the strengths of different models by generating a weighted final score from both a cross-encoder and an LLM-based evaluation.
+- **Structured Data Extraction:** uses LLMs to parse unstructured text from resumes and job descriptions into a structured JSON format, capturing key details like skills, experience, and qualifications.
+- **Resume Parsing:** supports resumes in various formats, including `.pdf`, `.docx`, and `.txt`.
+- **Ensemble Scoring:** combines the strengths of different models by generating a weighted final score from both a cross-encoder and an LLM-based evaluation.
 
-## ⚙️ How It Works
+## How It Works
 
 The pipeline processes resumes in several sequential stages:
 
